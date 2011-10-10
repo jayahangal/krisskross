@@ -1,0 +1,34 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.05.05.02.53.26;	author hangal;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@map program files
+@
+text
+@/** 
+class only for declaring constants 
+*/
+public class Direction {
+public static final int HORIZONTAL = 0;
+public static final int VERTICAL = 1;
+
+// private constructor to disallow instantiation
+private Direction () { }
+
+}
+@

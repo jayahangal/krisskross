@@ -1,0 +1,30 @@
+head	1.1;
+access;
+symbols;
+locks
+	hangal:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	98.05.05.02.53.26;	author hangal;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@map program files
+@
+text
+@3 4
+1 0 0
+2 0 0
+2 2 2
+3 0 0
+
+@

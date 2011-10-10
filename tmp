@@ -1,0 +1,1381 @@
+xSize = 15, ySize = 15
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_____#_________
+_#_#_###_###_#_
+_________#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+Words database:
+extra
+shelf
+rails
+prior
+nurse
+codes
+letup
+eerie
+parsnip
+thistle
+anthill
+splurge
+valleys
+termini
+chekhov
+deserts
+assures
+tumbrel
+rooster
+litotes
+express
+peaches
+hoisted
+reserve
+conceited
+horsewhip
+clearsoup
+fremantle
+posthaste
+secretive
+chameleon
+timepiece
+direction =0  x = 0 y  = 0
+mapstr    =_______
+count = 16
+matchstr    =reserve
+xSize = 15, ySize = 15
+reserve#_______
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_____#_________
+_#_#_###_###_#_
+_________#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = _______, x = 0, y = 0, count = 15, direction = 0
+  moved = 0
+  x = 0 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =r______
+count = 1
+matchstr    =rooster
+xSize = 15, ySize = 15
+reserve#_______
+o#_#_#_#_#_#_#_
+o______#_______
+s#_#_#_#_#_#_#_
+t____#_________
+e#_#_###_###_#_
+r________#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = r______, x = 0, y = 0, count = 0, direction = 1
+  x = 0 y  = 2
+foundmove = true
+stack1 = false
+mapstr    =o______
+count = 0
+str = r______, x = 0, y = 0, count = 0, direction = 1
+foundmove = true
+stack1 = false
+str = _______, x = 0, y = 0, count = 15, direction = 0
+foundmove = true
+stack1 = true
+matchstr    =hoisted
+xSize = 15, ySize = 15
+hoisted#_______
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_____#_________
+_#_#_###_###_#_
+_________#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = _______, x = 0, y = 0, count = 14, direction = 0
+  moved = 0
+  x = 0 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =h______
+count = 0
+str = _______, x = 0, y = 0, count = 14, direction = 0
+foundmove = true
+stack1 = true
+matchstr    =peaches
+xSize = 15, ySize = 15
+peaches#_______
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_____#_________
+_#_#_###_###_#_
+_________#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = _______, x = 0, y = 0, count = 13, direction = 0
+  moved = 0
+  x = 0 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =p______
+count = 1
+matchstr    =parsnip
+xSize = 15, ySize = 15
+peaches#_______
+a#_#_#_#_#_#_#_
+r______#_______
+s#_#_#_#_#_#_#_
+n____#_________
+i#_#_###_###_#_
+p________#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = p______, x = 0, y = 0, count = 0, direction = 1
+  x = 0 y  = 2
+foundmove = true
+stack1 = false
+mapstr    =r______
+count = 2
+matchstr    =reserve
+xSize = 15, ySize = 15
+peaches#_______
+a#_#_#_#_#_#_#_
+reserve#_______
+s#_#_#_#_#_#_#_
+n____#_________
+i#_#_###_###_#_
+p________#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = r______, x = 0, y = 2, count = 1, direction = 0
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 2 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =a_s____
+count = 1
+matchstr    =assures
+xSize = 15, ySize = 15
+peaches#_______
+a#s#_#_#_#_#_#_
+reserve#_______
+s#u#_#_#_#_#_#_
+n_r__#_________
+i#e#_###_###_#_
+p_s______#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = a_s____, x = 2, y = 0, count = 0, direction = 1
+  x = 0 y  = 4
+foundmove = true
+stack1 = false
+mapstr    =n_r__
+count = 1
+matchstr    =nurse
+xSize = 15, ySize = 15
+peaches#_______
+a#s#_#_#_#_#_#_
+reserve#_______
+s#u#_#_#_#_#_#_
+nurse#_________
+i#e#_###_###_#_
+p_s______#_____
+####_#_#_#_####
+_____#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = n_r__, x = 0, y = 4, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 4 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =h_r_e____
+count = 1
+matchstr    =horsewhip
+xSize = 15, ySize = 15
+peaches#_______
+a#s#o#_#_#_#_#_
+reserve#_______
+s#u#s#_#_#_#_#_
+nurse#_________
+i#e#w###_###_#_
+p_s_h____#_____
+####i#_#_#_####
+____p#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = h_r_e____, x = 4, y = 0, count = 0, direction = 1
+  x = 0 y  = 6
+foundmove = true
+stack1 = false
+mapstr    =p_s_h____
+count = 1
+matchstr    =posthaste
+xSize = 15, ySize = 15
+peaches#_______
+a#s#o#_#_#_#_#_
+reserve#_______
+s#u#s#_#_#_#_#_
+nurse#_________
+i#e#w###_###_#_
+posthaste#_____
+####i#_#_#_####
+____p#_________
+_#_###_###_#_#_
+_________#_____
+_#_#_#_#_#_#_#_
+_______#_______
+_#_#_#_#_#_#_#_
+_______#_______
+str = p_s_h____, x = 0, y = 6, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = 6
+  x = 6 y  = 6
+foundmove = true
+stack1 = false
+mapstr    =s________
+count = 1
+matchstr    =secretive
+xSize = 15, ySize = 15
+peaches#_______
+a#s#o#_#_#_#_#_
+reserve#_______
+s#u#s#_#_#_#_#_
+nurse#_________
+i#e#w###_###_#_
+posthaste#_____
+####i#e#_#_####
+____p#c________
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = s________, x = 6, y = 6, count = 0, direction = 1
+  x = 6 y  = 8
+foundmove = true
+stack1 = false
+mapstr    =c________
+count = 3
+matchstr    =chameleon
+xSize = 15, ySize = 15
+peaches#_______
+a#s#o#_#_#_#_#_
+reserve#_______
+s#u#s#_#_#_#_#_
+nurse#_________
+i#e#w###_###_#_
+posthaste#_____
+####i#e#_#_####
+____p#chameleon
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = c________, x = 6, y = 8, count = 2, direction = 0
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 8 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =______e_a
+count = 0
+str = c________, x = 6, y = 8, count = 2, direction = 0
+foundmove = true
+stack1 = false
+matchstr    =clearsoup
+xSize = 15, ySize = 15
+peaches#_______
+a#s#o#_#_#_#_#_
+reserve#_______
+s#u#s#_#_#_#_#_
+nurse#_________
+i#e#w###_###_#_
+posthaste#_____
+####i#e#_#_####
+____p#clearsoup
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = c________, x = 6, y = 8, count = 1, direction = 0
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 8 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =______e_e
+count = 1
+matchstr    =timepiece
+xSize = 15, ySize = 15
+peaches#t______
+a#s#o#_#i#_#_#_
+reserve#m______
+s#u#s#_#e#_#_#_
+nurse#__p______
+i#e#w###i###_#_
+posthaste#_____
+####i#e#c#_####
+____p#clearsoup
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = ______e_e, x = 8, y = 0, count = 0, direction = 1
+  x = 8 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =t______
+count = 3
+matchstr    =tumbrel
+xSize = 15, ySize = 15
+peaches#tumbrel
+a#s#o#_#i#_#_#_
+reserve#m______
+s#u#s#_#e#_#_#_
+nurse#__p______
+i#e#w###i###_#_
+posthaste#_____
+####i#e#c#_####
+____p#clearsoup
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = t______, x = 8, y = 0, count = 2, direction = 0
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 10 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =m____
+count = 0
+str = t______, x = 8, y = 0, count = 2, direction = 0
+foundmove = true
+stack1 = false
+matchstr    =termini
+xSize = 15, ySize = 15
+peaches#termini
+a#s#o#_#i#_#_#_
+reserve#m______
+s#u#s#_#e#_#_#_
+nurse#__p______
+i#e#w###i###_#_
+posthaste#_____
+####i#e#c#_####
+____p#clearsoup
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = t______, x = 8, y = 0, count = 1, direction = 0
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 10 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =r____
+count = 1
+matchstr    =rails
+xSize = 15, ySize = 15
+peaches#termini
+a#s#o#_#i#a#_#_
+reserve#m_i____
+s#u#s#_#e#l#_#_
+nurse#__p_s____
+i#e#w###i###_#_
+posthaste#_____
+####i#e#c#_####
+____p#clearsoup
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = r____, x = 10, y = 0, count = 0, direction = 1
+  x = 8 y  = 2
+foundmove = true
+stack1 = false
+mapstr    =m_i____
+count = 0
+str = r____, x = 10, y = 0, count = 0, direction = 1
+foundmove = true
+stack1 = false
+str = t______, x = 8, y = 0, count = 1, direction = 0
+foundmove = true
+stack1 = false
+matchstr    =thistle
+xSize = 15, ySize = 15
+peaches#thistle
+a#s#o#_#i#_#_#_
+reserve#m______
+s#u#s#_#e#_#_#_
+nurse#__p______
+i#e#w###i###_#_
+posthaste#_____
+####i#e#c#_####
+____p#clearsoup
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = t______, x = 8, y = 0, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 10 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =i____
+count = 0
+str = t______, x = 8, y = 0, count = 0, direction = 0
+foundmove = true
+stack1 = false
+str = ______e_e, x = 8, y = 0, count = 0, direction = 1
+foundmove = true
+stack1 = false
+str = c________, x = 6, y = 8, count = 1, direction = 0
+foundmove = true
+stack1 = false
+matchstr    =conceited
+xSize = 15, ySize = 15
+peaches#_______
+a#s#o#_#_#_#_#_
+reserve#_______
+s#u#s#_#_#_#_#_
+nurse#_________
+i#e#w###_###_#_
+posthaste#_____
+####i#e#_#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = c________, x = 6, y = 8, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 8 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =______e_n
+count = 1
+matchstr    =chameleon
+xSize = 15, ySize = 15
+peaches#c______
+a#s#o#_#h#_#_#_
+reserve#a______
+s#u#s#_#m#_#_#_
+nurse#__e______
+i#e#w###l###_#_
+posthaste#_____
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = ______e_n, x = 8, y = 0, count = 0, direction = 1
+  x = 8 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =c______
+count = 1
+matchstr    =chekhov
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#_#h#_#_#_
+reserve#a______
+s#u#s#_#m#_#_#_
+nurse#__e______
+i#e#w###l###_#_
+posthaste#_____
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = c______, x = 8, y = 0, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 10 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =e____
+count = 2
+matchstr    =eerie
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#_#h#e#_#_
+reserve#a_r____
+s#u#s#_#m#i#_#_
+nurse#__e_e____
+i#e#w###l###_#_
+posthaste#_____
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = e____, x = 10, y = 0, count = 1, direction = 1
+  x = 8 y  = 2
+foundmove = true
+stack1 = false
+mapstr    =a_r____
+count = 0
+str = e____, x = 10, y = 0, count = 1, direction = 1
+foundmove = true
+stack1 = false
+matchstr    =extra
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#_#h#x#_#_
+reserve#a_t____
+s#u#s#_#m#r#_#_
+nurse#__e_a____
+i#e#w###l###_#_
+posthaste#_____
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = e____, x = 10, y = 0, count = 0, direction = 1
+  x = 8 y  = 2
+foundmove = true
+stack1 = false
+mapstr    =a_t____
+count = 1
+matchstr    =anthill
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#_#h#x#_#_
+reserve#anthill
+s#u#s#_#m#r#_#_
+nurse#__e_a____
+i#e#w###l###_#_
+posthaste#_____
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = a_t____, x = 8, y = 2, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 12 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =h_i____
+count = 1
+matchstr    =hoisted
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#_#h#x#o#_
+reserve#anthill
+s#u#s#_#m#r#s#_
+nurse#__e_a_t__
+i#e#w###l###e#_
+posthaste#__d__
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = h_i____, x = 12, y = 0, count = 0, direction = 1
+  x = 6 y  = 4
+foundmove = true
+stack1 = false
+mapstr    =__e_a_t__
+count = 1
+matchstr    =fremantle
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#_#h#x#o#_
+reserve#anthill
+s#u#s#_#m#r#s#_
+nurse#fremantle
+i#e#w###l###e#_
+posthaste#__d__
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = __e_a_t__, x = 6, y = 4, count = 0, direction = 0
+  moved = 0
+  x = 6 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =s_e_f
+count = 1
+matchstr    =shelf
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#_
+reserve#anthill
+s#u#s#l#m#r#s#_
+nurse#fremantle
+i#e#w###l###e#_
+posthaste#__d__
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = s_e_f, x = 6, y = 0, count = 0, direction = 1
+  x = 6 y  = 0
+str = __e_a_t__, x = 6, y = 4, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = 0
+  x = 14 y  = 0
+foundmove = true
+stack1 = false
+mapstr    =v_l_e__
+count = 1
+matchstr    =valleys
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#__d_s
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = v_l_e__, x = 14, y = 0, count = 0, direction = 1
+  x = 10 y  = 6
+foundmove = true
+stack1 = false
+mapstr    =__d_s
+count = 1
+matchstr    =codes
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#_####
+____p#conceited
+_#_###r###_#_#_
+______e__#_____
+_#_#_#t#_#_#_#_
+______i#_______
+_#_#_#v#_#_#_#_
+______e#_______
+str = __d_s, x = 10, y = 6, count = 0, direction = 0
+  moved = 6
+  x = 10 y  = 6
+foundmove = true
+stack1 = false
+mapstr    =c_e______
+count = 1
+matchstr    =clearsoup
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+____p#conceited
+_#_###r###a#_#_
+______e__#r____
+_#_#_#t#_#s#_#_
+______i#__o____
+_#_#_#v#_#u#_#_
+______e#__p____
+str = c_e______, x = 10, y = 6, count = 0, direction = 1
+  x = 10 y  = 10
+foundmove = true
+stack1 = false
+mapstr    =r____
+count = 1
+matchstr    =rails
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+____p#conceited
+_#_###r###a#_#_
+______e__#rails
+_#_#_#t#_#s#_#_
+______i#__o____
+_#_#_#v#_#u#_#_
+______e#__p____
+str = r____, x = 10, y = 10, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = 8
+  x = 12 y  = 8
+foundmove = true
+stack1 = false
+mapstr    =t_i____
+count = 1
+matchstr    =thistle
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+____p#conceited
+_#_###r###a#h#_
+______e__#rails
+_#_#_#t#_#s#s#_
+______i#__o_t__
+_#_#_#v#_#u#l#_
+______e#__p_e__
+str = t_i____, x = 12, y = 8, count = 0, direction = 1
+  x = 8 y  = 12
+foundmove = true
+stack1 = false
+mapstr    =__o_t__
+count = 1
+matchstr    =rooster
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+____p#conceited
+_#_###r###a#h#_
+______e__#rails
+_#_#_#t#_#s#s#_
+______i#rooster
+_#_#_#v#_#u#l#_
+______e#__p_e__
+str = __o_t__, x = 8, y = 12, count = 0, direction = 0
+  moved = 10
+  x = 8 y  = 10
+foundmove = true
+stack1 = false
+mapstr    =__r__
+count = 1
+matchstr    =eerie
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+____p#conceited
+_#_###r###a#h#_
+______e_e#rails
+_#_#_#t#e#s#s#_
+______i#rooster
+_#_#_#v#i#u#l#_
+______e#e_p_e__
+str = __r__, x = 8, y = 10, count = 0, direction = 1
+  x = 0 y  = 10
+foundmove = true
+stack1 = false
+mapstr    =______e_e
+count = 1
+matchstr    =timepiece
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+____p#conceited
+_#_###r###a#h#_
+timepiece#rails
+_#_#_#t#e#s#s#_
+______i#rooster
+_#_#_#v#i#u#l#_
+______e#e_p_e__
+str = ______e_e, x = 0, y = 10, count = 0, direction = 0
+  moved = 8
+  x = 0 y  = 8
+foundmove = true
+stack1 = false
+mapstr    =__t____
+count = 1
+matchstr    =litotes
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+l___p#conceited
+i#_###r###a#h#_
+timepiece#rails
+o#_#_#t#e#s#s#_
+t_____i#rooster
+e#_#_#v#i#u#l#_
+s_____e#e_p_e__
+str = __t____, x = 0, y = 8, count = 0, direction = 1
+  x = 0 y  = 8
+foundmove = true
+stack1 = false
+mapstr    =l___p
+count = 1
+matchstr    =letup
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+letup#conceited
+i#_###r###a#h#_
+timepiece#rails
+o#_#_#t#e#s#s#_
+t_____i#rooster
+e#_#_#v#i#u#l#_
+s_____e#e_p_e__
+str = l___p, x = 0, y = 8, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = 8
+  x = 2 y  = 8
+foundmove = true
+stack1 = false
+mapstr    =t_m____
+count = 1
+matchstr    =tumbrel
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+letup#conceited
+i#u###r###a#h#_
+timepiece#rails
+o#b#_#t#e#s#s#_
+t_r___i#rooster
+e#e#_#v#i#u#l#_
+s_l___e#e_p_e__
+str = t_m____, x = 2, y = 8, count = 0, direction = 1
+  x = 0 y  = 12
+foundmove = true
+stack1 = false
+mapstr    =t_r___i
+count = 1
+matchstr    =termini
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+letup#conceited
+i#u###r###a#h#_
+timepiece#rails
+o#b#_#t#e#s#s#_
+termini#rooster
+e#e#_#v#i#u#l#_
+s_l___e#e_p_e__
+str = t_r___i, x = 0, y = 12, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = 10
+  x = 4 y  = 10
+foundmove = true
+stack1 = false
+mapstr    =p_i__
+count = 1
+matchstr    =prior
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+letup#conceited
+i#u###r###a#h#_
+timepiece#rails
+o#b#r#t#e#s#s#_
+termini#rooster
+e#e#o#v#i#u#l#_
+s_l_r_e#e_p_e__
+str = p_i__, x = 4, y = 10, count = 0, direction = 1
+  x = 0 y  = 14
+foundmove = true
+stack1 = false
+mapstr    =s_l_r_e
+count = 1
+matchstr    =splurge
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+letup#conceited
+i#u###r###a#h#_
+timepiece#rails
+o#b#r#t#e#s#s#_
+termini#rooster
+e#e#o#v#i#u#l#_
+splurge#e_p_e__
+str = s_l_r_e, x = 0, y = 14, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 0 y  = 14
+str = p_i__, x = 4, y = 10, count = 0, direction = 1
+  x = 0 y  = 14
+str = t_r___i, x = 0, y = 12, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 0 y  = 14
+str = t_m____, x = 2, y = 8, count = 0, direction = 1
+  x = 0 y  = 14
+str = l___p, x = 0, y = 8, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 0 y  = 14
+str = __t____, x = 0, y = 8, count = 0, direction = 1
+  x = 0 y  = 14
+str = ______e_e, x = 0, y = 10, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 0 y  = 14
+str = __r__, x = 8, y = 10, count = 0, direction = 1
+  x = 8 y  = 14
+foundmove = true
+stack1 = false
+mapstr    =e_p_e__
+count = 1
+matchstr    =express
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+letup#conceited
+i#u###r###a#h#_
+timepiece#rails
+o#b#r#t#e#s#s#_
+termini#rooster
+e#e#o#v#i#u#l#_
+splurge#express
+str = e_p_e__, x = 8, y = 14, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = 8
+  x = 14 y  = 8
+foundmove = true
+stack1 = false
+mapstr    =d_s_r_s
+count = 1
+matchstr    =deserts
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+letup#conceited
+i#u###r###a#h#e
+timepiece#rails
+o#b#r#t#e#s#s#e
+termini#rooster
+e#e#o#v#i#u#l#t
+splurge#express
+str = d_s_r_s, x = 14, y = 8, count = 0, direction = 1
+  x = 14 y  = 8
+str = e_p_e__, x = 8, y = 14, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = s_l_r_e, x = 0, y = 14, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = p_i__, x = 4, y = 10, count = 0, direction = 1
+  x = 14 y  = 8
+str = t_r___i, x = 0, y = 12, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = t_m____, x = 2, y = 8, count = 0, direction = 1
+  x = 14 y  = 8
+str = l___p, x = 0, y = 8, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = __t____, x = 0, y = 8, count = 0, direction = 1
+  x = 14 y  = 8
+str = ______e_e, x = 0, y = 10, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = __r__, x = 8, y = 10, count = 0, direction = 1
+  x = 14 y  = 8
+str = __o_t__, x = 8, y = 12, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = t_i____, x = 12, y = 8, count = 0, direction = 1
+  x = 14 y  = 8
+str = r____, x = 10, y = 10, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = c_e______, x = 10, y = 6, count = 0, direction = 1
+  x = 14 y  = 8
+str = __d_s, x = 10, y = 6, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = v_l_e__, x = 14, y = 0, count = 0, direction = 1
+  x = 14 y  = 8
+str = s_e_f, x = 6, y = 0, count = 0, direction = 1
+  x = 14 y  = 8
+str = __e_a_t__, x = 6, y = 4, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = h_i____, x = 12, y = 0, count = 0, direction = 1
+  x = 14 y  = 8
+str = a_t____, x = 8, y = 2, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = e____, x = 10, y = 0, count = 0, direction = 1
+  x = 14 y  = 8
+str = c______, x = 8, y = 0, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = ______e_n, x = 8, y = 0, count = 0, direction = 1
+  x = 14 y  = 8
+str = c________, x = 6, y = 8, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = s________, x = 6, y = 6, count = 0, direction = 1
+  x = 14 y  = 8
+str = p_s_h____, x = 0, y = 6, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = h_r_e____, x = 4, y = 0, count = 0, direction = 1
+  x = 14 y  = 8
+str = n_r__, x = 0, y = 4, count = 0, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = a_s____, x = 2, y = 0, count = 0, direction = 1
+  x = 14 y  = 8
+str = r______, x = 0, y = 2, count = 1, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+str = p______, x = 0, y = 0, count = 0, direction = 1
+  x = 14 y  = 8
+str = _______, x = 0, y = 0, count = 13, direction = 0
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  moved = -1
+  x = 14 y  = 8
+foundmove = false
+stack1 = false
+xSize = 15, ySize = 15
+peaches#chekhov
+a#s#o#h#h#x#o#a
+reserve#anthill
+s#u#s#l#m#r#s#l
+nurse#fremantle
+i#e#w###l###e#y
+posthaste#codes
+####i#e#o#l####
+letup#conceited
+i#u###r###a#h#e
+timepiece#rails
+o#b#r#t#e#s#s#e
+termini#rooster
+e#e#o#v#i#u#l#t
+

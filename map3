@@ -1,0 +1,6 @@
+3 4
+1 0 0  # col = 1, from row 0 to row 0 (0,0)
+2 0 0  # col = 2, from row 0 to row 0 (2,0)
+2 2 2  # col = 2, from row 2 to row 2 (2,2)
+3 0 0  # col = 3, from row 0 to row 0 (3,0)
+

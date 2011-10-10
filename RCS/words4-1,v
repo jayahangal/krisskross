@@ -1,0 +1,56 @@
+head	1.1;
+access;
+symbols;
+locks
+	hangal:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	98.05.05.02.53.26;	author hangal;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@map program files
+@
+text
+@reserve
+hoisted
+peaches
+express
+timepiece
+litotes
+rooster
+tumbrel
+assures
+chameleon
+deserts
+secretive
+chekhov
+posthaste
+fremantle
+eerie
+letup
+codes
+termini
+nurse
+valleys
+clearsoup
+splurge
+prior
+anthill
+rails
+shelf
+thistle
+horsewhip
+conceited
+parsnip
+extra
+@
